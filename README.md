@@ -38,6 +38,5 @@ webpyCMS是基于web.py的网站内容管理系统，小巧实用，非常适合
 
 # contact & get help
 
-email: love(a)taogogo.info
+email: xiaqing04@baidu.com
 
-microblog：http://weibo.com/taogogo
